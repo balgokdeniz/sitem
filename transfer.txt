@@ -1,0 +1,22 @@
+<table border align="center" BGCOLOR="#00F0F0">
+
+<tr>
+
+    <td>FUTBOLCU ADI</td>
+    <td>YAÞI</td>
+    <td>ESKÝ TAKIMI</td>
+  <td>YENÝ TAKIMI</td>
+  <td>ÖDENEN TUTAR</td>
+
+
+</tr>
+
+<tr>
+
+    <td>Hücre 3</td>
+
+    <td>Hücre 4</td>
+
+</tr>
+
+</table>

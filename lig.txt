@@ -1,0 +1,44 @@
+<html>
+<head>
+
+	<title>SEZON SONU</title>
+</head>
+<tr>
+	
+
+	
+	<td height="28"width="180">
+	<p align="center"><font size="3" color="black" face="Arial"><b>
+	<img src="indir.jpg"><br><br> <align="top" width="20"  height="20">
+	ÞAMPÝYONLAR LÝGÝ EÞLEÞMELERÝ<br><br></a><br />
+
+
+		UEFA Þampiyonlar Ligi'ndeki temsilcimiz Beþiktaþ'ýn, Son 16 turuna grup lideri olarak katýldýðý kura çekimi, yapýldý. Peki Beþiktaþ'ýn Devler Ligi'nde 2. turda rakibi kim oldu?
+Þampiyonlar Ligi G Grubu'nu lider olarak bitiren Beþiktaþ'ýn, son 16 turundaki rakibi bugün belli oldu. 
+
+Ýsviçre'nin Nyon kentindeki UEFA Genel Merkezi'nde gerçekleþtirilen UEFA Þampiyonlar Ligi son 16 turu kura çekimi, TSÝ 14.00'te baþladý.
+Tarihinde ilk kez Þampiyonlar Ligi gruplarýndan çýkan Beþiktaþ son 16 turu kura çekimine seribaþý olarak katýldý. 
+
+Beþiktaþ'ýn rakibi Bayern Münih takýmý oldu.
+
+Beþiktaþ seribaþý olduðu için ilk maçý 20 Þubat 2018'de, Almanya'da Allianz Arena'da oynayacak.
+
+Rövanþ ise 14 Mart 2018'de Ýstanbul'da Vodafone Park'ta oynanacak. 
+ÝÞTE ÞAMPÝYONLAR LÝGÝ EÞLEÞMELERÝ<br><br>
+Juventus-Tottenham
+
+Basel-Manchester City
+
+Porto-Liverpool
+
+Sevilla-Manchester United
+
+Real Madrid-Paris Saint Germain
+
+Shakhtar-Roma
+
+Chelsea-Barcelona
+
+Bayern Münih- Beþiktaþ
+</tr>
+</table>

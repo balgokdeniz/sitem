@@ -1,0 +1,78 @@
+
+<table border="1" height="500" width="900" align="center" bgcolor="#7FFFD4">
+
+<tr>
+
+    <td>EÞLEÞMELER</td>
+ <td>1.MAÇLAR</td>
+ <td>2.MAÇLAR</td>
+   
+
+</tr>
+
+<tr>
+
+    <td>Fenerbahçe - Ýstanbulspor</td>
+    <td>26.12.2017 Salý </td>
+<td>16.01.2017 Salý </td>
+
+    
+
+</tr>
+<tr>
+
+    <td>Beþiktaþ - Osmanlýspor</td>
+       <td>26.12.2017 Salý </td>
+<td>16.01.2017 Salý </td>
+    
+ 
+
+</tr>
+<tr>
+
+    <td>Boluspor -Teleset Mobilya Akhisarspor</td>
+       <td>26.12.2017 Salý </td>
+<td>16.01.2017 Salý </td>
+
+</tr>
+<tr>
+
+    <td>Ankara Demirspor - Teleset Mobilya Akhisarspor</td>
+     <td>27.12.2017 Çarþamba </td>
+<td>17.01.2017 Çarþamba </td>
+
+</tr>
+<tr>
+
+    <td>Akýn Çorap Giresunspor - Aytemiz Alanyaspor</td>
+    <td>13.12.2017 Çarþamba </td>
+  <td>17.01.2017 Çarþamba </td>
+
+
+</tr>
+<tr>
+
+    <td>Kayserispor - Eyüpspor</td>
+    <td>14.12.2017 Çarþamba </td>
+<td>17.01.2017 Çarþamba </td>
+
+
+</tr>
+<tr>
+
+    <td>Osmanlýspor - Evkur Yeni Malatyaspor</td>
+    <td>13.12.2017 Perþembe </td>
+<td>18.01.2017 perþembe </td>
+
+
+</tr>
+<tr>
+
+    <td>Kahramanmaraþspor - Medipol Baþakþehir</td>
+    <td>14.12.2017 Perþembe </td>
+ <td>18.01.2017 perþembe </td>
+    
+
+</tr>
+
+</table>

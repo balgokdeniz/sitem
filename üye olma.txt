@@ -1,0 +1,22 @@
+<table style="BORDER-RIGHT: silver 1px solid; BORDER-TOP: silver 1px solid; BORDER-LEFT: silver 1px solid; BORDER-BOTTOM: silver 1px solid" width="22%" bgColor="#f1f1f1">
+<tr>
+<td align="center" style="font-family: tahoma, verdana, arial; font-size: 11px; color: #000000">
+<b>  Üye Giriþi</b></td>
+</tr>
+<tr>
+<td bgColor="#cccccc" height="1" align="center" style="font-family: tahoma, verdana, arial; font-size: 11px; color: #000000">
+<form method="post" action="BURAYA FORUM URL'SÝ GELECEK">
+<table class="forumtabelle" width="161" height="87">
+<tr>
+<td style="font-family: tahoma, verdana, arial; font-size: 11px; color: #000000">
+<input style="WIDTH: 100px" value="Kullanýcý adý" name="modulenter2[nick]"><p>
+<input style="WIDTH: 100px" type="password" value name="modulenter2[pwd]"></td>
+<td style="font-family: tahoma, verdana, arial; font-size: 11px; color: #000000"> </td>
+<td style="font-family: tahoma, verdana, arial; font-size: 11px; color: #000000">
+<input tabIndex="3" type="image" src="http://www.logicbilisim.com.tr/images_s/ib_giris.gif" name="I1" width="48" height="48" style="border: 0 none"><input type="hidden" value="login" name="mode"></td>
+</tr>
+</table>
+</form>
+</td>
+</tr>
+</table>

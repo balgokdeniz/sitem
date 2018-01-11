@@ -1,0 +1,23 @@
+<html>
+<head>
+
+	<title>SEZON SONU</title>
+</head>
+<tr>
+	
+
+	
+	<td height="28"width="180">
+	<p align="center"><font size="3" color="black" face="Arial"><b>
+	<img src="yusuf.jpg"><br><br> <align="top" width="20"  height="20">
+	YUSUF VE ABDÜLKADÝR AVRUPA'NIN RADARINDA<br><br></a><br />
+Bordo-Mavili camianýn büyük umutlar beslediði Yusuf Yazýcý ve Abdülkadir Ömür, gösterdikleri performansla þimdiden teknik direktör Rýza Çalýmbay'ýn vazgeçilmezleri arasýna girdi. 
+Oynadýklarý oyunla taraflý tarafsýz herkesin beðenisini kazanan genç yýldýzlar, birçok Avrupa devini de peþlerine taktý.
+ Ancak ocak ayýnda iki futbolcuyu da satmayý düþünmeyen Trabzonspor Baþkaný Muharrem Usta, Akhisar maçýnýn ardýndan bu oyuncularla bizzat görüþecek.
+Fýrtýna’nýn patronu, o buluþmada yýldýzlarýna gelen teklifleri tek tek paylaþacak ve “Devre arasýnda bir ayrýlýk düþünmüyoruz. Fakat en uygun zamanda en uygun þartlara kapýmýz açýk olacak” diyecek.
+
+
+
+		
+</tr>
+</table>
